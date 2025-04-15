@@ -6,7 +6,7 @@ This repository contains comprehensive data analysis and research on token deplo
 
 [Link to Full Article]()
 
-## Key Features
+## Topics Covered
 
 - In-depth analysis of growth trends and patterns
 - Identification and profiling of key actors in token deployment
