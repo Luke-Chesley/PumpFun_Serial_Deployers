@@ -4,7 +4,7 @@
 
 This repository contains comprehensive data analysis and research on token deployers within the Solana ecosystem, specifically focusing on activities related to Pump.fun platform. The analysis examines patterns of token deployment, "rugging" behaviors, and their impact on the ecosystem.
 
-[Link to Full Article]()
+[Link to Full Article](https://x.com/WarmPotato2070/status/1914315922740756859)
 
 ## Topics Covered
 
